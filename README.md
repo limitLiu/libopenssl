@@ -1,2 +1,2 @@
 # libopenssl
-A Pod Wrapper for openssl on macOS.
+A Pod Wrapper of openssl for macOS.
