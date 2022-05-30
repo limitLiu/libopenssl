@@ -1,6 +1,6 @@
 PODNAME="libopenssl"
 NAME="openssl"
-VERSION="1.1.1l"
+VERSION="1.1.1m"
 
 Pod::Spec.new do |s|
   s.name             = "#{PODNAME}"
